@@ -22,6 +22,10 @@ All times are in GMT.
 * **Treasure Boxes:** Daily treasure boxes in the castle for the guild leader.
 * **God Item Creation:** Holding specific castles is a requirement for creating the legendary God Items.
 
+### 🚪 WoE Warpers
+
+For the duration of War of Emperium, **WoE Warpers** are available in Rune-Midgard Inns. For a fee of **1,000z** per trip, they will warp you directly next to the Repairman in any castle realm.
+
 ---
 
 ## ⌚ Past Seasons
