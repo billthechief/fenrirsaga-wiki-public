@@ -77,7 +77,7 @@ The spirit of Halloween has unleashed hordes of **Pumpkins** and **Ghosts** acro
 
 ## 👹 The Aberration — Roaming MVP Boss
 
-A twisted entity from beyond our realm stalks the lands of Rune Midgard! The **Aberration** is a nightmarish MVP that spawns every **4 hours** at random locations.
+A twisted entity from beyond our realm stalks the lands of Rune Midgard! The **Aberration** is a nightmarish MVP that spawns every **3 hours** at random locations.
 
 ![Aberration](../images/mobs/2996.gif)
 
@@ -194,14 +194,7 @@ Think you're brave enough to face the undead horde as a **defenseless Novice**? 
 
 ### ⏰ Event Schedule
 
-The Halloween Invasion runs **every 4 hours** at the following times (Server Time - UTC):
-
-- **12:00 AM**
-- **4:00 AM**
-- **8:00 AM**
-- **12:00 PM**
-- **4:00 PM**
-- **8:00 PM**
+The Halloween Invasion runs **every 3 hours**.
 
 !!! info "Pre-Event Announcements"
     Server-wide announcements will alert you before each event:
@@ -326,12 +319,12 @@ Visit the **Witch's Apprentice** in **Prontera (146,197)** to trade your hard-ea
 ## ⏰ Event Duration & Schedule
 
 ### Aberration Boss
-- **Spawn Frequency**: Every 4 hours
+- **Spawn Frequency**: Every 3 hours
 - **Duration**: Until defeated or map change
 - **Hints**: Progressive riddles every 2 minutes
 
 ### Halloween Invasion
-- **Availability**: Every 4 hours (12AM, 4AM, 8AM, 12PM, 4PM, 8PM Server Time - UTC)
+- **Availability**: Every 3 hours
 - **Duration**: 5 minutes per session
 
 ---
@@ -341,7 +334,7 @@ Visit the **Witch's Apprentice** in **Prontera (146,197)** to trade your hard-ea
 | Feature | Aberration Hunt | Halloween Invasion |
 |---------|-----------------|-------------------|
 | **Who Can Join** | All players | Level 1 Novices only |
-| **Frequency** | Every 4 hours | Every 4 hours |
+| **Frequency** | Every 3 hours | Every 3 hours |
 | **Duration** | Until defeated | 5 minutes |
 | **Difficulty** | MVP boss battle | Survival waves |
 | **Max Tokens** | 51-100 per kill | 5-100 per run |
