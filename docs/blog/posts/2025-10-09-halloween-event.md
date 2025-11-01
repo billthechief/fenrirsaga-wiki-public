@@ -90,6 +90,7 @@ A twisted entity from beyond our realm stalks the lands of Rune Midgard! The **A
 | **Job EXP** | 66,666 |
 | **MVP EXP** | 66,666 |
 | **Race** | Demon |
+| **Property** | Ghost 1 |
 
 ### 🎁 MVP Drop Table (granted to player with most damage interaction)
 
