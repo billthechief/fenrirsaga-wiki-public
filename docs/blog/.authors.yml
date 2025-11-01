@@ -1,0 +1,13 @@
+authors:
+  pondwater:
+    name: Pondwater
+    description: Owner / Admin
+    avatar: /images/pondwater.png
+  chief:
+    name: Chief
+    description: Wiki Administrator
+    avatar: /images/chief.png
+  kyrana:
+    name: Kyrana
+    description: Wiki Contributor
+    avatar: /images/chief.png

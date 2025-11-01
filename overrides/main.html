@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  {# The "for" attribute connects the text to a dismiss button, if you have one #}
+  <div id="woe-timer-container" for="announce">
+    <strong>WoE Status:</strong> <span id="woe-timer">Loading...</span>
+  </div>
+{% endblock %}

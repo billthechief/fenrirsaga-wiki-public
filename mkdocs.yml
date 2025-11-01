@@ -1,0 +1,91 @@
+site_name: Fenrir Saga Wiki
+site_description: A wiki for the Fenrir Saga Ragnarok Online server.
+site_author: Fenrir Saga
+site_url: https://wiki.fenrirsaga.com
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: images/fenrir.svg
+  favicon: images/fenrir.ico
+  font:
+    text: Montserrat
+    code: Montserrat Alternates
+  
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: teal
+      accent: teal
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode  
+      primary: teal
+      accent: teal 
+
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - navigation.top
+    - search.highlight
+    - navigation.expand
+
+plugins:
+  - blog:
+      blog_dir: blog
+  - blog:
+      blog_dir: guide
+  - search
+
+extra_javascript:
+  - javascripts/woe-timer.js
+
+markdown_extensions:
+  # Enabling Emojis
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # Enabling Callouts/ Admonitions
+  - admonition
+  - pymdownx.details
+  #Enabling Content Tabs
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - pymdownx.critic
+
+# Footer Callouts
+extra:
+  social:
+    - icon: fontawesome/solid/house
+      link: https://fenrirsaga.com
+    - icon: simple/youtube
+      link: https://www.youtube.com/@Buttsington
+    - icon: simple/discord
+      link: https://discord.gg/AtZTMwpHCY
+
+nav:
+  - '🏠 Home': 'index.md'
+  - '📰 News': 'blog/index.md'
+  - '🚀 Getting Started': 'getting-started.md'
+  - '📺 Guides': 'guide/index.md'
+  - '📜 Server Rules': 'rules.md'
+  - '✨ Server Features':
+    - '📰 Overview': 'features/index.md'
+    - '📊 Server Information': 'features/server-information.md'
+    - '⚔️ War of Emperium': 'features/woe.md'
+    - '⚡ Technical Improvements': 'features/techimprovements.md'
+    - '🛠️ QoL Commands': 'features/qol-commands.md'
+    - '🎭 QoL NPCs': 'features/qol-npcs.md'
+    - '🏦 Custom Systems': 'features/systems.md'
+  - '❓ FAQ': 'faq.md'
+  - '🌐 Game Website': 'https://fenrirsaga.com'
