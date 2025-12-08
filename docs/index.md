@@ -15,7 +15,35 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 # 📜 Patchnotes
 
+=== "December 2025"
+
+    ### December 7th, 2025
+    ```
+    - Waterball lvl 10 now has the correct range when used by players
+    - Added latest wallpaper from @qrow (Thank you!)
+    - Test server now has @pvpon, @pvpoff, and @agitstart and @agitend commands enabled.
+    ```
+
 === "November 2025"
+
+    ### November 27th, 2025
+    ```
+    - @meter has two new subcommands, 'pause' and 'persist'. (default is 'pause')
+    - @meter 'pause' configures the meter to pause when you log out. 
+    - @meter 'persist' configures the meter to continue running while offline.
+    - @brew bug fixed that prevent sp / bowls from being consumed in certain cases.
+    ```
+
+    ### November 20th, 2025
+    ```
+    - Halloween Event turn-in NPC removed.
+    - Added @night, @day, and @daynight commands to apply day, night, and rotation day and night interval to self.
+    - @showexp now displays homunuculus exp message in clan channel if configured.
+    - @meter now stops the session when logging out.
+    - Split '@pettalk speak' and '@pettalk filter' commands into separate @pettalk and @petfilter commands.
+    - Added @pt alias added for @pettalk atcommmand 
+    - Only one @brew can be active at a time. 
+    ```
 
     ### November 13th, 2025
     ```
