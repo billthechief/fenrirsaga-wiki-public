@@ -61,7 +61,7 @@ The terrible **Krampus** stalks the lands of Rune Midgard, punishing the naughty
 
 | Stat | Value |
 |------|-------|
-| **MVP** | Krampus (Bloody Knight reskin) |
+| **MVP** | Krampus |
 | **Spawn Frequency** | Every 3 hours |
 | **Race** | Demon |
 | **Property** | Dark |
