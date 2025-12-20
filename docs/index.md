@@ -17,6 +17,33 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 === "December 2025"
 
+    ### December 20th, 2025
+    ```
+    - Fix bug where event stopped spawning when there was too many players.
+    - Cap max presents spawned at 20
+    - Cap big presents spawned at 5;
+    - Increase big present spawn rate from every 60s to 30s.
+    - Increase Sasquatch spawn from every 20s to 15s.
+    - Exploding presents now kill Sasquatches too.
+    - Exploding present radius increased from 5x5 to 7x7 aoe.
+    ```
+
+    ### December 19th, 2025
+    ```
+    - Present hunt event duration reduced from 10min to 5min.
+    - Present hunt base present count increased from 5 to 10.
+    - Present hunt big present fuse reduced to 10 seconds.
+    - Present hunt big present should now correctly give 5 points per kill.
+    - Fix bug preventing presents from exploding :)
+    ```
+
+    ### December 18th, 2025
+    ```
+    - Christmas Event begins!
+    - WoE paused until after holidays.
+    - Added @timer command.
+    ```
+
     ### December 7th, 2025
     ```
     - Waterball lvl 10 now has the correct range when used by players

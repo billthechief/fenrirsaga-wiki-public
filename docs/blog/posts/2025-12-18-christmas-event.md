@@ -142,15 +142,16 @@ The Counterfeit Present Hunt runs **every 3 hours** at:
 
 ### 📌 How It Works
 
-- **Duration**: 10 minutes maximum (or until all presents destroyed)
+- **Duration**: 5 minutes maximum (or until all presents destroyed)
 - **Map**: 1@eom (Special arena)
 - **Team Mode**: Automatically enabled with 2+ players
 - **Dynamic Spawns**: More players = more presents to destroy
 
 #### Present Scaling
 
-- **Base Spawns**: 5 Counterfeit Presents
+- **Base Spawns**: 10 Counterfeit Presents
 - **Player Scaling**: +1 present per player
+- **Max Spawns**: Capped at 20 standard presents and 5 golden presents
 - **Additional Spawns**: Presents continuously spawn during the event
 
 ### 🎁 The Counterfeits
@@ -158,22 +159,23 @@ The Counterfeit Present Hunt runs **every 3 hours** at:
 #### Standard Counterfeit Present (Myst Case)
 
 - **HP**: 1 HP (one-hit destroy)
-- **Warning**: Explodes when destroyed, dealing damage!
+- **Warning**: Explodes when destroyed, dealing damage in a 7x7 area!
 - **Explosion Chance**: 5% per second to start exploding
 - **Explosion Timer**: 3 seconds warning before detonation
 - **Kill Reward**: 1 point for your team
+- **Special**: Explosions can also damage Sasquatches
 
 #### Golden Present (C4 Myst Case)
 
 - **HP**: 20 HP
-- **Spawn**: Every 60 seconds
-- **Explosion Timer**: 20 seconds warning before detonation
+- **Spawn**: Every 30 seconds
+- **Explosion Timer**: 10 seconds warning before detonation
 - **Kill Reward**: 5 points for your team
 - **Special**: Takes multiple hits to destroy
 
 ### 👹 Enemy Interference
 
-**Sasquatch** (Krampus's minions) spawn every **20 seconds** to interfere with your hunt! They will attack players attempting to destroy the presents.
+**Sasquatch** (Krampus's minions) spawn every **15 seconds** to interfere with your hunt! They will attack players attempting to destroy the presents. Be careful — exploding presents can also damage them!
 
 ### 💪 Power-Up Buffs
 
@@ -289,7 +291,7 @@ Visit **Santa** in **Prontera (146,197)** to trade your hard-earned Event Ticket
 
 ### Counterfeit Present Hunt
 - **Schedule**: Every 3 hours at 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00
-- **Duration**: 10 minutes per session
+- **Duration**: 5 minutes per session
 
 ### Antonio Spawns
 - **Availability**: Continuous throughout event
@@ -303,7 +305,7 @@ Visit **Santa** in **Prontera (146,197)** to trade your hard-earned Event Ticket
 |---------|--------------|------------------|
 | **Who Can Join** | All players | All players |
 | **Frequency** | Every 3 hours | Every 3 hours |
-| **Duration** | Until defeated | 10 minutes |
+| **Duration** | Until defeated | 5 minutes |
 | **Difficulty** | MVP boss | Team survival |
 | **Max Tickets** | 50-100 per kill | Based on performance |
 | **Special Reward** | Yule Hearth buff | Team victory bonus |
