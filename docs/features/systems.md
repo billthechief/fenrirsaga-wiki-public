@@ -25,8 +25,8 @@ Seal Quests are enabled on Fenrir Saga, but their availability is tied to the cu
 * **Current Availability:**
     * ✅ **Seal of Sleipnir:** Available
     * ✅ **Seal of Megingjard:** Available
-    * ❌ **Seal of Brisingamen:** Unlocked in WoE Season 2
-    * ❌ **Seal of Mjolnir:** Unlocked in WoE Season 3
+    * ✅ **Seal of Brisingamen:** Available
+    * ✅ **Seal of Mjolnir:** Available
 
 * **Quest Progression:**
     * Unlike official servers, you are never permanently locked out of a Seal quest.
