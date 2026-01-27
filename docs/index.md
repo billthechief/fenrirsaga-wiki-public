@@ -15,6 +15,28 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 # 📜 Patchnotes
 
+=== "January 2026"
+
+    ### January 22nd, 2026
+    ```
+    - Castle Ownership from Season 3 WoE revoked.
+    - Christmas event spotlight maps removed.
+    - Christmas event prontera snow effect removed.
+    - Fix bug where mob auto attacks were not correctly excluding elemental modifiers.
+    ```
+    
+    ### January 15th, 2026
+    ```
+    - Christmas event ended, turn-in NPc will remain for one additional week.
+    - Fix bug causing mjolnir quest dialog from getting stuck.  
+    ```
+
+    ### January 8th, 2026
+    ```
+    - Event MVP NPC will repeat the latest riddle if you ask them.
+    - Fixed erroneous guild invitation messages.
+    ```
+
 === "December 2025"
 
     ### December 20th, 2025
