@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- Configuration ---
   // Flag to enable/disable WoE (set to false when between seasons)
-  const woeActive = false;
+  const woeActive = true;
 
   // Note: Times are in UTC to avoid timezone issues.
   // Saturday 6:00 PM UTC
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Check 0: If WoE is not active, display between seasons message
     if (!woeActive) {
       woeElement.innerHTML = `
-        <strong style="color: #FF9800;">ℹ️ WoE will resume in January 2026.</strong>
+        <strong style="color: #FF9800;">ℹ️ WoE is currently in between seasons.</strong>
       `;
       return;
     }
