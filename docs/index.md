@@ -15,7 +15,23 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 # 📜 Patchnotes
 
+=== "February 2026"
+
+    ### February 5th, 2026
+    ```
+    - KVM battlegrounds enabled.
+    - KVM team size reduced from 5 to 3.
+    - KVM reward turn-in disabled (will have heagear rewards in future!).
+    - Devotion packet now uses the correct source of dmg (numbers sync visually).
+    ```
+
 === "January 2026"
+
+    ### January 29th, 2026
+    ```
+    - Fix 'Finding a Fairy Quest' reward from 900k to 700k BEXP.
+    - Fix 'Guardian of Yggdrasil Quest' from 350k to 35k JEXP.
+    ```
 
     ### January 22nd, 2026
     ```
