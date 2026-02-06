@@ -6,7 +6,7 @@ The War of Emperium is a server-defining event where guilds battle for control o
 
     Don't forget to check the announcement bar at the very top of the wiki! It has a live countdown to the next WoE and shows when a war is ongoing.
 
-## Season 3
+## Season 4
 
 ### 📅 Schedule
 
@@ -14,7 +14,8 @@ All times are in GMT.
 
 | Day      | Time (GMT)              | Castles                         |
 | :------- | :---------------------- | :------------------------------ |
-| Saturday | **5:00 PM - 6:00 PM** | **Kriemhild** *(Valkyrie 1)*<br>**Scarlet Palace** *(Baldur 2)*<br>**Bergel** *(Britoniah 4)* |
+| Saturday | **4:00 PM - 5:00 PM** | **Gondul** *(prtg_cas05)* |
+| Sunday   | **2:00 AM - 3:00 AM** | **Mardol** *(arug_cas01)* |
 
 ### 🏰 Castle Ownership Benefits
 
@@ -32,9 +33,17 @@ For the duration of War of Emperium, **WoE Warpers** are available in Rune-Midga
 
 This section contains information and schedules from previous WoE seasons for historical reference.
 
+### Season 3
+
+*Ran from **October 2025** to February 2026.*
+
+| Day      | Time (GMT)              | Castles                         |
+| :------- | :---------------------- | :------------------------------ |
+| Saturday | **5:00 PM - 6:00 PM** | **Kriemhild** *(Valkyrie 1)*<br>**Scarlet Palace** *(Baldur 2)*<br>**Bergel** *(Britoniah 4)* |
+
 ### Season 2
 
-*Ran from **June 21st, 2025** to October 2025.*
+*Ran from **June 2025** to October 2025.*
 
 | Day      | Time (GMT)              | Castles                         |
 | :------- | :---------------------- | :------------------------------ |
@@ -42,6 +51,8 @@ This section contains information and schedules from previous WoE seasons for hi
 | Sunday   | **3:00 PM - 4:00 PM** | **Bright Arbor** *(Baldur 1)* |
 
 ### Season 1
+
+*Ran from **March 2025** to May 2025.*
 
 | Day      | Time (GMT)              | Castles                                                    |
 | :------- | :---------------------- | :--------------------------------------------------------- |

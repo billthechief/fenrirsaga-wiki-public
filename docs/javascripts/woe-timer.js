@@ -14,18 +14,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const woeActive = true;
 
   // Note: Times are in UTC to avoid timezone issues.
-  // Saturday 6:00 PM UTC
+  // Season 4 Schedule
   const woeSchedules = [
     {
       day: 6, // Saturday (0=Sunday, 1=Monday, ..., 6=Saturday)
-      startHour: 18, // 18:00 UTC (6:00 PM UTC)
+      startHour: 16, // 16:00 UTC (4:00 PM UTC)
       duration: 1,   // 1 hour
-      castle: "Kriemhild (Valkyrie 1), Scarlet Palace (Baldur 2), Bergel (Britoniah 4)",
+      castle: "Gondul (prtg_cas05)",
+    },
+    {
+      day: 0, // Sunday
+      startHour: 2, // 02:00 UTC (2:00 AM UTC)
+      duration: 1,   // 1 hour
+      castle: "Mardol (arug_cas01)",
     },
   ];
 
   // The official start date of the WoE Season
-  const seasonStartDate = new Date("2025-10-18T18:00:00Z");
+  const seasonStartDate = new Date("2026-02-14T16:00:00Z");
 
   // --- Main Timer Function ---
   function updateWoeStatus() {
@@ -41,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Check 1: Display countdown to the start of the season if it hasn't begun
     if (now < seasonStartDate) {
-      displayCountdown(seasonStartDate, "🎉Season 3 begins in");
+      displayCountdown(seasonStartDate, "🎉Season 4 begins in");
       return;
     }
 
