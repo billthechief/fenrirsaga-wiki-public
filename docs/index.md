@@ -16,6 +16,26 @@ Whether you're a new player looking to get started or a veteran checking up on *
 # 📜 Patchnotes
 
 === "February 2026"
+    
+    ### February 20th, 2026
+    ```
+    - Fix issue preventing SE WoE chests from spawning.
+    - Fix Fanat and Aunoe to use the correct drop tables.
+    ```
+
+    ### February 19th, 2026
+    ```
+    - Adjusted Elemental Sword to no longer trigger off itself when duel wielding.
+    - Allow players to bulk buy hammers in NPC dialogue.
+    - Player damage log contributions are ignored when AFK.
+    ```
+
+    ### February 12th, 2026
+    ```
+    - New World cards now correctly reduce damage based on enemies element, not the attack element.
+    - Kafra Election now accepts any number of votes.
+    - Sushi and Raw Fish dealer now allows user to specify how many pieces to buy.
+    ```
 
     ### February 5th, 2026
     ```
