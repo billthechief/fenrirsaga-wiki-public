@@ -15,6 +15,20 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 # 📜 Patchnotes
 
+=== "March 2026"
+    
+    ### March 12th, 2026
+    ```
+    - Endless Tower no longer allows you warp to upper floors with Ashes without clearing those below.
+    - Treasure chests respawn after WoE if they were not killed beforehand.
+    ```
+
+    ### March 05th, 2026
+    ```
+    - Summoned marine Spheres now correctly move the full before detonating after attacked.
+    ```
+
+
 === "February 2026"
     
     ### February 20th, 2026
