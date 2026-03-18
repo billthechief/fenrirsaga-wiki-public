@@ -17,6 +17,11 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 === "March 2026"
     
+    ### March 17th, 2026
+    ```
+    - Fix issue with treasures not respawning after being removed during WoE.
+    ```
+
     ### March 12th, 2026
     ```
     - Endless Tower no longer allows you warp to upper floors with Ashes without clearing those below.
