@@ -15,8 +15,66 @@ Whether you're a new player looking to get started or a veteran checking up on *
 
 # 📜 Patchnotes
 
+=== "August 2026"
+
+    ### August 27th, 2026
+    ```
+    - Consistent skill animation timing is now enforced server-side, matching stock client measurements per class, weapon, and attack speed.
+    - Handling provoke against undead now displays a `Skill Failed` message.
+    - Persistent Ankle Snare: a trap expiring or being removed no longer frees a target that has since been caught by a different trap. (Ankle Snare remains dispellable.)
+    - Extended Marionette Control cast range raised from 1 to 7 cells.
+    - Network prevent server-side disconnect from quiet connections.
+    - Now logging in will kick a session stuck in character select.
+    - Successfully killing invaders on Airship now ends the attack early and the ship route resumes immediately.
+    - Upon boarding Airship, a live status line now displays.
+    - Critical Moscovia quest boat bugs fixed, moving-island trip now survives logouts and restarts, the final ambush no longer dead-ends the quest, and the rudder no longer throws you off mid-voyage.
+    - Keys from Thanatos quest now convert from Charms rather than requiring you to vendor them ahead of time.
+    - Simplified @killcount now folds monsters sharing a display name (Goblins, Kobolds, MVP slaves) into one counter, and slaves dying with their master no longer count as your kills.
+    ```
+
+    ### August 13th, 2026
+    ```
+    - Fix Hillslion name.
+    - Fix players being locked out of Kafra Dungeon Voting.
+    - Fix a few timing related bugs where characters would never attack / use skills on their targets.
+    - Unify serverside walk, attack, and skill queuing implementation in preparation for new client.
+    - Use smarter server-side pathfinding (walking around things, player's only)
+    ```
+
+=== "May 2026"
+
+    ### May 21st, 2026
+    ```
+    - WoE Season 4 has ended.
+    - Spotlight rotation now iterates through all regions at least once before repeating.
+    - Minimum character name length reduced from 4 characters to 3.
+    - Monk quest has been corrected to only require 30 of one type of mushroom.
+    - Fix Einbroch Murder Quest password.
+    - Added @saved command to show where your character is saved.
+    ```
+
+=== "April 2026"
+
+    ### April 16th, 2026
+    ```
+    - KVM Freebies introduced: players entering the Battlegrounds arena receive free starter potions/gems and class-specific items, consumed first and removed on leaving the arena or logging out.
+    - Spotlight Embers introduced: mobs on a spotlight map have a small chance to drop an Ember, which activates a 2-hour spotlight on an eligible map.
+    - @spotlight now displays tomorrows spotlight.
+    - @embers displays maps spotlight from embers and remaining duration.
+    - @noammo and @noskillfail commands to reduce chat spam.
+    - Magnum Break buff status icon.
+    - Fix Umbala ore downgrading rolls invidually rather than per 10.
+    ```
+
 === "March 2026"
     
+    ### March 26th, 2026
+    ```
+    - Daily spotlight enabled again.
+    - Channel messages now support many more characters (from 150 to ~240)
+    - Added a @chathistory command to enable/disable displaying recent public, private, channel, and guild messages when you log back onto a character. The feature is disabled by default.
+    ```
+
     ### March 17th, 2026
     ```
     - Fix issue with treasures not respawning after being removed during WoE.

@@ -2,20 +2,7 @@
 
 The War of Emperium is a server-defining event where guilds battle for control of powerful castles. Glory, honor, and unique rewards await the victors.
 
-!!! tip "Live WoE Timer"
-
-    Don't forget to check the announcement bar at the very top of the wiki! It has a live countdown to the next WoE and shows when a war is ongoing.
-
-## Season 4
-
-### 📅 Schedule
-
-All times are in GMT.
-
-| Day      | Time (GMT)              | Castles                         |
-| :------- | :---------------------- | :------------------------------ |
-| Saturday | **4:00 PM - 5:00 PM** | **Gondul** *(prtg_cas05)* |
-| Sunday   | **2:00 AM - 3:00 AM** | **Mardol** *(arug_cas01)* |
+WoE is currently inactive following the conclusion of Season 4 on May 21st, 2026. Castle ownership was revoked at that time. No Season 5 date has been announced.
 
 ### 🏰 Castle Ownership Benefits
 
@@ -32,6 +19,15 @@ For the duration of War of Emperium, **WoE Warpers** are available in Rune-Midga
 ## ⌚ Past Seasons
 
 This section contains information and schedules from previous WoE seasons for historical reference.
+
+### Season 4
+
+*Ran from **February 14, 2026** to **May 21, 2026**.*
+
+| Day      | Time (GMT)              | Castles                         |
+| :------- | :---------------------- | :------------------------------ |
+| Saturday | **4:00 PM - 5:00 PM** | **Gondul** *(prtg_cas05)* |
+| Sunday   | **2:00 AM - 3:00 AM** | **Mardol** *(arug_cas01)* |
 
 ### Season 3
 

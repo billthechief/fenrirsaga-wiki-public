@@ -6,7 +6,9 @@ Explore this section to learn about the enhancements that set us apart.
 
 * [**📊 Server Information**](./server-information.md): Get an overview on the rates, stats and many more that make **Fenrir Saga** unique.
 * [**⚔️ War of Emperium**](./woe.md): Love to battle alongside your friends? Discover all things about Fenrir Saga's WoE.
+* [**🗡️ Custom KVM Battlegrounds**](./kvm.md): Learn about Fenrir Saga's KVM integration and custom battleground features.
 * [**⚡ Technical Improvements**](./techimprovements.md): Discover the client and server-side improvements that make the game feel more responsive and fluid.
-* [**🛠️ Quality of Life Commands**](./qol-commands.md): Learn about the carefully crafted portfolio of commands created for a better gameplay experience in **Fenrir Saga**.
+* [**🛠️ Player Commands**](./qol-commands.md): Learn about the carefully crafted portfolio of commands created for a better gameplay experience in **Fenrir Saga**.
 * [**🎭 Quality of Life NPCs**](./qol-npcs.md): Meet the helpful NPCs that can change your look, reset your skills, and more.
 * [**🏦 Custom Systems**](./systems.md): Learn about our unique Master Account, Party Tap, and God Item systems.
+* [**🖥️ Control Panel**](./control-panel.md): Access account settings, preferences, and character management tools.
