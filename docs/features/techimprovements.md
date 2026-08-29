@@ -27,3 +27,9 @@ These backend changes ensure the server can keep up with your actions.
 
 * **Desync Compensation**
     * The server can now detect when a desynced client sends an incorrect action and will gracefully handle it to keep you in sync with the game world.
+
+* **Smarter Pathfinding**
+    * The server now paths players around obstacles instead of walking straight at them.
+
+* **Server-Enforced Skill Animation Timing**
+    * Skill animation timing is now enforced server-side, matching stock client measurements per class, weapon, and attack speed.

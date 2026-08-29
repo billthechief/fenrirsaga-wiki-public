@@ -1,4 +1,4 @@
-# 🎭 QoL NPCs
+# 🎭 Quality of Life NPCs
 
 We've added several convenient NPCs in major towns to enhance your gameplay experience.
 

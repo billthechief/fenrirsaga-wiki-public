@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- Configuration ---
   // Flag to enable/disable WoE (set to false when between seasons)
-  const woeActive = true;
+  const woeActive = false;
 
   // Note: Times are in UTC to avoid timezone issues.
   // Season 4 Schedule

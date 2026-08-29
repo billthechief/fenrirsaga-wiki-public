@@ -11,23 +11,27 @@ These commands provide useful information, shortcuts, and social features.
 | Command | Aliases | Description |
 |---|---|---|
 | `@autotrade` | | Autovends while you are offline. Autovendors are logged off after **2 weeks** in a town, or **4 hours** if outside a town. |
-| `@beams` | | Customizes the colors and drop-rate thresholds for item beams that appear on the ground. |
+| `@beams` | | Opens the beams configuration UI, for customizing the colors and drop-rate thresholds of item beams that appear on the ground. |
+| `@beamscli` | | Command-line form of `@beams` — `@beamscli color/threshold/config/reset ...`. |
 | `@killcount` | `@kc` | Shows the amount of kills for a specific monster registered under your account. |
 | `@meter` | | Gauges the experience points (EXP) you have earned over a period of time. |
 | `@mobinfo` | `@mi` | Shows detailed monster information, including your current Hit and Flee rate against them. |
 | `@iteminfo` | `@ii` | Shows detailed information about an item. |
 | `@whodrops`| | Shows which monsters drop a specific item. |
 | `@whereis` | | Shows which maps a specific monster spawns on. |
-| `@whobuy` | | Shows vendors currently buying a specific item. |
-| `@whosell`| `@ws`, `@ws2` | Shows vendors currently selling a specific item. |
+| `@whobuy` | `@wb` | Shows vendors currently buying a specific item. |
+| `@wb2` | | Same as `@wb`, but it opens the shop remotely if you're on the same map. |
+| `@whosell`| `@ws` | Shows vendors currently selling a specific item. |
+| `@ws2` | | Same as `@ws`, but it opens the shop remotely if you're on the same map. |
 | `@walkmode` | | Toggles walk behavior when hit. Normally, getting hit stops you unless you are holding down the mouse button. This command lets you keep walking without holding it. This does not grant the Endure effect. |
 | `@guildlog`| `@glog` | Shows the history of items being deposited or withdrawn from the guild storage. Ex: `@glog +7 2504[4133]` shows the history for a +7 Raydric Carded Muffler. |
-| `@friends` | | Manages your friends list, including hiding your online status. |
+| `@friends` | `@fs`, `@f` | Manages your friends list, including hiding your online status. |
 | `@loginout`| `@li` | Toggles the login/logout notification messages for your friends and guild members. |
 | `@whomap` | | Shows a list of other players currently on the same map as you. |
 | `@bank` | | Opens your personal bank storage. |
 | `@masterbank`| `@mbank` | Opens your shared Master Account bank storage. |
-| `@pettalk` | | Filters out a percentage of your pet's talk messages. |
+| `@pettalk` | `@pt` | Toggles whether your pet's talk messages show. |
+| `@petfilter` | | Filters out a percentage of your pet's talk messages. |
 | `@played` | | Shows the total time played on your current character. |
 | `@ping` | | Displays your current latency (ping) to the server. |
 | `@deaths` | | Shows the number of times your character has died. |
@@ -37,9 +41,23 @@ These commands provide useful information, shortcuts, and social features.
 | `@memo` | | Shows your current saved warp memo points and allows you to replace specific memos. |
 | `@nomount` | | Hides your Peco Peco or Grand Peco mount on your own screen. This is a visual-only change for yourself and is disabled during War of Emperium. |
 | `@homstats` | | Shows your Homunculus's current stats. |
+| `@hominfo` | | Shows Homunculus info. |
 | `@hate`/`@feel`| | Displays the current Star Gladiator "Feeling" and "Hate" map assignments. |
 | `@cooking` | | Shows your current cooking experience/mastery level. |
 | `@adopt` | | Allows you to adopt a Novice or First Class character into your family. |
+| `@noks` | | Kill-steal protection. |
+| `@showexp` | | Shows EXP gained per hit/kill and taps applied. `@showexp clan` routes messages to clan chat. |
+| `@brew` | | Brews large quantities of potions. Town only, one at a time. |
+| `@uptime` | | Shows server uptime. |
+| `@ltp` | | Shows your position from before your last teleport/Intimidate for 15s. |
+| `@navi` | | Shows a nav route to `<map> <x> <y>` or `<x> <y>` on your current map. |
+| `@woetime` | | Shows WoE time in server time and time remaining until it. |
+| `@night`/`@day`/`@daynight` | | Applies day, night, or rotating day/night to yourself. |
+| `@timer` | | Sets a personal timer, e.g. `@timer 2h10m eddga`. Alerts when it expires. |
+| `@chathistory` | | Shows recent messages (up to 32) on character login. |
+| `@noammo`/`@noskillfail` | | Suppresses ammo/skill-fail chat spam. |
+| `@saved` | | Shows your character's save point. |
+| `@etcount` | | Sets Endless Tower's remaining-monster count threshold (default 5). |
 
 ---
 
